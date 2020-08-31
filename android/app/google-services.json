@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "962509892200",
+    "firebase_url": "https://wapp-teste.firebaseio.com",
+    "project_id": "wapp-teste",
+    "storage_bucket": "wapp-teste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962509892200:android:eb978702a29865b90d69dd",
+        "android_client_info": {
+          "package_name": "com.example.wapp_teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962509892200-q940d4lu8o7hmo2qlknsq3gcb2jvtina.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1bcMsPp-yX0HhorF6ZEHgEwYu3IFlozY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962509892200-q940d4lu8o7hmo2qlknsq3gcb2jvtina.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
